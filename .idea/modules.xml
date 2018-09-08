@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CenturyCloud.iml" filepath="$PROJECT_DIR$/CenturyCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudLib/CloudLib.iml" filepath="$PROJECT_DIR$/CloudLib/CloudLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudMaster/CloudMaster.iml" filepath="$PROJECT_DIR$/CloudMaster/CloudMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudNetwork/CloudNetwork.iml" filepath="$PROJECT_DIR$/CloudNetwork/CloudNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudWrapper/CloudWrapper.iml" filepath="$PROJECT_DIR$/CloudWrapper/CloudWrapper.iml" />
+    </modules>
+  </component>
+</project>
